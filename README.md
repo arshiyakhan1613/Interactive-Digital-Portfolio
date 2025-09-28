@@ -15,7 +15,7 @@ PROBLEM STATEMENT
 
 Many developers struggle to present their practical skills (like responsiveness, complex animations, and interactive design) effectively in a static document. This project solves that by providing a highly engaging, custom-coded platform to visually communicate technical abilities.
 
-Key Features Implemented
+KEY FEATURE'S IMPLEMENTED
 
 
 Smooth Navigation: Fixed header and smooth scrolling behavior between sections.
