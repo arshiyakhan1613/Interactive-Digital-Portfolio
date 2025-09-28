@@ -33,5 +33,7 @@ The finished project is hosted and available for live viewing here: ➡️
 Feel free to connect with me!
 
 LinkedIn: https://linkedin.com/in/arshiya1613
+
 GitHub: https://github.com/arshiyakhan1613/
+
 Email: arshiya1613@gmail.com
