@@ -47,7 +47,7 @@ JavaScript : All logic for interactivity, scrolling, animations, and user experi
 
 
 LIVE DEMO
-The finished project is hosted and available for live viewing here: ➡https://dulcet-swan-3ecca1.netlify.app/️
+The finished project is hosted and available for live viewing here: ➡  https://arshiyakhan1613.github.io/Interactive-Digital-Portfolio/
 
 
 
