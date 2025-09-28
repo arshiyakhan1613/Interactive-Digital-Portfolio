@@ -1,16 +1,16 @@
-🚀 Interactive Digital Portfolio
+🚀 INTERACTIVE DIGITAL PORTFOLIO
 
 
 A dynamic, fully responsive personal portfolio website built exclusively with HTML, CSS, and JavaScript to showcase skills, projects, and interactive front-end development capabilities.
 
-🌟 Project Overview
+🌟 PROJECT OVERVIEW
 
 
 This project was developed as a Capstone Submission for the IBM Skillbuild Edunet program.
 
 The goal was to move beyond the limitations of a traditional, static resume by creating a live, interactive platform that directly demonstrates proficiency in core web technologies and modern UI/UX design.
 
-Problem Statement
+PROBLEM STATEMENT
 
 
 Many developers struggle to present their practical skills (like responsiveness, complex animations, and interactive design) effectively in a static document. This project solves that by providing a highly engaging, custom-coded platform to visually communicate technical abilities.
@@ -26,7 +26,7 @@ Skills Visualization: Animated progress bars triggered when the section scrolls 
 Interactive Feedback: Custom ripple effect on the Contact button.
 
 
-🛠️ Technology Stack
+🛠️ TECHNOLOGY STACK
 
 
 
@@ -43,16 +43,16 @@ JavaScript : All logic for interactivity, scrolling, animations, and user experi
 
 
 
-⚙️ Deployment 
+⚙️ DEPOLYMENT
 
 
-Live Demo
-The finished project is hosted and available for live viewing here: ➡️
+LIVE DEMO
+The finished project is hosted and available for live viewing here: ➡https://dulcet-swan-3ecca1.netlify.app/️
 
 
 
 
-✉️ Contact
+✉️ CONTACT
 Feel free to connect with me!
 
 LinkedIn: https://linkedin.com/in/arshiya1613
