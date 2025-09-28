@@ -20,13 +20,21 @@ Interactive Feedback: Custom ripple effect on the Contact button.
 This project strictly adheres to the core front-end technology requirement, using no external frameworks or libraries beyond standard helper utilities.
 
 HTML5: Semantic structure and content organization.
+
 CSS3: Custom styling, responsiveness (Flexbox/Grid), and animation keyframes.
+
 JavaScript : All logic for interactivity, scrolling, animations, and user experience.
+
+
+
+
 
 
 ⚙️ Deployment 
 Live Demo
 The finished project is hosted and available for live viewing here: ➡️
+
+
 
 
 ✉️ Contact
